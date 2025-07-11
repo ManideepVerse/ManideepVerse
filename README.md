@@ -1,3 +1,4 @@
+![logo](https://github.com/ManideepVerse/ManideepVerse/blob/main/coder.gif)
 <h1 align="center">Hi 👋, I'm D Manideep</h1>
 <h3 align="center">Crafting Responsive Designs & Intelligent Systems</h3>
 
